@@ -1,0 +1,11 @@
+
+# EdgeDomainCreate
+
+## Properties
+| Name | Type | Description | Notes |
+| ------------ | ------------- | ------------- | ------------- |
+| **hostname** | **kotlin.String** |  |  |
+| **functionSlug** | **kotlin.String** |  |  |
+
+
+
